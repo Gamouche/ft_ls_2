@@ -14,7 +14,7 @@
 #include <stdbool.h>
 #include <sys/stat.h>
 #include "ft_ls_header.h"
-#include "../libft/libft.h"
+#include "../libft/includes/libft.h"
 
 static int	error_file_1(int errno_value, const char *path)
 {

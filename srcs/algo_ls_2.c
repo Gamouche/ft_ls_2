@@ -14,7 +14,7 @@
 #include <stdlib.h>
 #include <sys/stat.h>
 #include <stdbool.h>
-#include "../libft/libft.h"
+#include "../libft/includes/libft.h"
 #include "ft_ls_header.h"
 
 void		calculate_and_print_the_total(t_ls_opt *opt, size_t nb_entity,

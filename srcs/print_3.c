@@ -16,7 +16,7 @@
 #include <time.h>
 #include <sys/stat.h>
 #include "ft_ls_header.h"
-#include "../libft/libft.h"
+#include "../libft/includes/libft.h"
 
 void	print_inode(ino_t ino, char *final_str)
 {

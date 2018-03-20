@@ -13,7 +13,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <stddef.h>
-#include "../libft/libft.h"
+#include "../libft/includes/libft.h"
 #include "ft_ls_header.h"
 
 static size_t	get_nb_elem(char **paths)

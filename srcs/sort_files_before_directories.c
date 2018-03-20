@@ -13,7 +13,7 @@
 #include <sys/stat.h>
 #include <stddef.h>
 #include <errno.h>
-#include "../libft/libft.h"
+#include "../libft/includes/libft.h"
 #include "ft_ls_header.h"
 
 static void	init_arrays_to_null(char **other_array, char **dir_array,

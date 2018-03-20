@@ -14,7 +14,7 @@
 #include <stdbool.h>
 #include <sys/stat.h>
 #include "ft_ls_header.h"
-#include "../libft/libft.h"
+#include "../libft/includes/libft.h"
 
 static void	long_format_option(struct stat *sstat_array, char *final_str,
 									const char *pathlol, t_ls_opt *opt)

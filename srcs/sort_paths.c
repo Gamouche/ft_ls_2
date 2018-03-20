@@ -14,7 +14,7 @@
 #include <errno.h>
 #include <sys/stat.h>
 #include <stddef.h>
-#include "../libft/libft.h"
+#include "../libft/includes/libft.h"
 #include "ft_ls_header.h"
 
 static void	sort_ascii(char **paths, size_t nb_elem)

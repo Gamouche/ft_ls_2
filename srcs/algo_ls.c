@@ -14,7 +14,7 @@
 #include <sys/stat.h>
 #include <dirent.h>
 #include <errno.h>
-#include "../libft/libft.h"
+#include "../libft/includes/libft.h"
 #include "ft_ls_header.h"
 
 static int	check_opendir_failure(int errno_value, char *path)

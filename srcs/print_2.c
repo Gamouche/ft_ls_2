@@ -17,7 +17,7 @@
 #include <sys/stat.h>
 #include <errno.h>
 #include "ft_ls_header.h"
-#include "../libft/libft.h"
+#include "../libft/includes/libft.h"
 
 void	print_symbolic_link(char *final_str, const char *pathlol)
 {

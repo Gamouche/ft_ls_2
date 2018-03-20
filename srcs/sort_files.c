@@ -12,7 +12,7 @@
 
 #include <stdbool.h>
 #include <sys/stat.h>
-#include "../libft/libft.h"
+#include "../libft/includes/libft.h"
 #include "ft_ls_header.h"
 
 static void	sort_ascii(char **array, size_t nb_elem, struct stat *sstat_array)

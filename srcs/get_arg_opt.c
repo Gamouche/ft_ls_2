@@ -13,7 +13,7 @@
 #include <stdbool.h>
 #include <stddef.h>
 #include "ft_ls_header.h"
-#include "../libft/libft.h"
+#include "../libft/includes/libft.h"
 
 static void	init_opt(t_ls_opt *opt)
 {
