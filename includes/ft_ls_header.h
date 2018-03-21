@@ -43,13 +43,13 @@
 # define F_WHITE  "\x1B[47m"
 # define BOLD "\e[1m"
 
-# define SPACES_AFTER_INO (10)
+# define SPACES_AFTER_INO (11)
 # define SIX_MONTHS (15811200)
-# define USERNAME_WIDTH (20)
-# define GROUPNAME_WIDTH (20)
-# define SIZE_WIDTH (12)
-# define MAJOR_WIDTH (5)
-# define MINOR_WIDTH (5)
+# define USERNAME_WIDTH (21)
+# define GROUPNAME_WIDTH (21)
+# define SIZE_WIDTH (13)
+# define MAJOR_WIDTH (6)
+# define MINOR_WIDTH (6)
 
 struct			s_ls_opt
 {

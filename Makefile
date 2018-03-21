@@ -30,7 +30,7 @@ ifneq ($(OS), Linux)
 endif
 
 HEADERS :=					-I ./includes/
-O_FLAG :=					-O3
+O_FLAG :=					-O0 -g
 
 #	Directories
 LIBFTDIR =					./libft/
